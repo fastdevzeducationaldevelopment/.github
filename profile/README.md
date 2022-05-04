@@ -1,93 +1,55 @@
+# *Project title*
 
+*Short description of your project, in one or two sentences.* 
 
-# Project Name: Portfolio
+## Setup 
 
-> Description the project.
->This project shows all my abilities as a software developer  and also as a frontEnd developer 
+### Dependencies
 
-## Built With
+*Provide links and descriptions for the third-party libraries you're having your users install.*
 
-- Major languages
-    1. *html*
-    2. *css*
-- Frameworks
+### Installation
 
-- Technologies used
-    1. *browser*
-    2. *html,css*
-    3. *figma tools*
+* Mac OS X
+* Ubuntu
+* Windows (if applicable)
 
+### Getting started
 
-## Live Demo
+*What does your user need to know to get everything ready after installation?*
+*Think about databases, config files, and settings.*
 
-[Live Demo Link](http://127.0.0.1:5500/index.html)
+## Usage
 
+*Give your users a sense of the workflow for using your project/tool.*
+*For a website this might include code for running locally.*
+*For an API this might include method and parameter specs.*
 
-## Getting Started
+## Demo
 
-**Setting up the project locally.**
+*Grab a simple block of code that makes use of your project/tool and paste it here.*
 
+## Team
 
-To get a local copy up and running follow these simple example steps.
+* *Name, Organization - role or tasks worked on*
 
-### Prerequisites
-1. *install an editor of your choice (vscode or atom)*
-2. *install a browser (chrome or Firefox)*
-3. *if using atom as editor install a liveserver extension*
-4. *install git*
+*Add a "contributors" section if you've incorporated pull requests.*
 
-### Setup
-1. *copy the link of the repository document*
-2. *use git to clone the repository *(ex: git clone <repository link here>)**
-    
-### Install
-1. *install an editor of your choice (vscode or atom)*
-2. *install a browser (chrome or Firefox)*
-3. *if using atom as editor install a liveserver*
-4. *install git*
-    
-    
-### Usage
-1. *it is a personal porfolio made to present your work as a developer *
-### Run tests
-1. *open the cloned repository using your editor as a new windos and as a folder*
-2. *click or select  the index.html file and run as live-server*
-**OR to just view the result**
-    1.*just open the cloned repository and double-click on the index.html file *
-    
-    
-### Deployment
-1. *copy the link of the repository document*
-2. *use git to clone the repository *(ex: git clone <repository link here>)* *
- 3. *open the cloned repository using your editor as a new windows and as a folder*
-4. *click or select  the index.html file and run as live-server*
-**OR to just view the result**
-    1. *just open the cloned repository and double-click on the index.html file *
-     
-## Authors
-👤 **Author1**
- - SOULEMANOU KUNCHIEFUH BABANOU**
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-    
-    
-## 🤝 Contributing
+## Errors and bugs
 
-Contributions, issues, and feature requests are welcome!
+If something is not behaving intuitively, it is a bug and should be reported.
+Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
 
-Feel free to check the [issues page](../../issues/).
+Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
 
-## Show your support
+## Patches and pull requests
 
-Give a ⭐️ if you like this project!
+Your patches are welcome. Here's our suggested workflow:
+ 
+* Fork the project.
+* Make your feature addition or bug fix.
+* Send us a pull request with a description of your work. Bonus points for topic branches!
 
-## Acknowledgments
+## Copyright and attribution
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+Copyright (c) 2016 DataMade. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
