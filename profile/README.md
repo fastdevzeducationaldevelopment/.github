@@ -36,5 +36,5 @@ We are always looking for passionate individuals and organizations to join us in
 ## Contact Us
 
 📧 **Email**: fastdevelopmentzone@gmail.com 
-🌐 **Website**: [www.fastdevz.com](https://fastdev.com)  
+🌐 **Website**: [www.fastdev.com](https://fastdev.com)  
 📍 **Location**: Global Headquarters, Werqwise San Francisco, CA 94105
